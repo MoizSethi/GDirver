@@ -12,13 +12,43 @@ function Sidebar() {
             </a>
           </li>
           <li>
-            <a href="/profile" className="block p-2 hover:bg-gray-700 rounded">
-              Profile
+            <a href="/accounts" className="block p-2 hover:bg-gray-700 rounded">
+              Accounts
             </a>
           </li>
           <li>
-            <a href="/settings" className="block p-2 hover:bg-gray-700 rounded">
-              Settings
+            <a href="/quotes" className="block p-2 hover:bg-gray-700 rounded">
+              Quotes
+            </a>
+          </li>
+          <li>
+            <a href="/calender" className="block p-2 hover:bg-gray-700 rounded">
+              Calender
+            </a>
+          </li>
+          <li>
+            <a href="/reservation" className="block p-2 hover:bg-gray-700 rounded">
+            Reservation
+            </a>
+          </li>
+          <li>
+            <a href="/dispatch" className="block p-2 hover:bg-gray-700 rounded">
+            Dispatch
+            </a>
+          </li>
+          <li>
+            <a href="/payable" className="block p-2 hover:bg-gray-700 rounded">
+            Payable
+            </a>
+          </li>
+          <li>
+            <a href="/receivables" className="block p-2 hover:bg-gray-700 rounded">
+            Receivables
+            </a>
+          </li>
+          <li>
+            <a href="/reports" className="block p-2 hover:bg-gray-700 rounded">
+            Reports
             </a>
           </li>
         </ul>
